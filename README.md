@@ -1,2 +1,3 @@
-# SimplePuzzleGame.github.io
-A puzzle game for Level Design course
+# SimplePuzzleGame
+A puzzle game for Tallinn University Level Design course
+Made in PuzzleScript
